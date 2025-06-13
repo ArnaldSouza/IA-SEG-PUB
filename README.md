@@ -27,6 +27,7 @@ Com o crescimento dos crimes relacionados a furtos e roubos de veículos, o uso 
 ├── data/                        # Diretório com imagens e rótulos
 │   ├── images/
 │   └── labels/
+├── assets                       # Diretório com imagens de teste
 ├── YOLO.ipynb                   # Notebook de detecção usando YOLO
 ├── FASTER_R_CNN.ipynb           # Notebook de detecção usando Faster R-CNN
 └── README.md                    # Este arquivo
